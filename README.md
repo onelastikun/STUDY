@@ -1,6 +1,7 @@
 <p align="center">
-    <img width=50% src="asset/nexte.png"/>
+    <img width=50% src="assets/nexte.png"/>
 </p>
+
 
 <h1 align="center">欢迎报名NEXT-E战队电控组！</h1>
 
